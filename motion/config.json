@@ -12,7 +12,7 @@
     "share:rw"
   ],
   "devices": ["/dev/video0:/dev/video0:rwm"],
-  "arch": ["amd64"],
+  "arch": ["amd64", "aarch64", "armhf", "armv7", "i386"],
   "options": {
 	"config": "",
   	"videodevice": "/dev/video0",
